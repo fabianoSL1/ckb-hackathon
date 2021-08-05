@@ -9,6 +9,7 @@
 ![create sudt](./create-sudt.png)
 
 ### deposit layer 2
+![deposit](./deposit-beggin.png)
 ![deposit](./deposit.png)
 
 Your sudt id: 207
