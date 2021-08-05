@@ -7,7 +7,7 @@
 0x6128EcF8cA252763AeC1d758E7E225B13071e8a9
 
 ## ABI of contract
-
+```javascript
 [
    {
      "inputs": [],
@@ -41,3 +41,4 @@
      "type": "function"
    }
 ];
+```
